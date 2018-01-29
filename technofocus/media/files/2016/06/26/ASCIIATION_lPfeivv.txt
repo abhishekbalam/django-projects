@@ -1,0 +1,3 @@
+STAR WARS 4
+telnet towel.blinkenlights.nl 
+aardmud.org
